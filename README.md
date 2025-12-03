@@ -1,19 +1,24 @@
-## David Chukwuemeka says, hi 👋🏾
+<h2>
+  David Chukwuemeka says, hi 👋🏾
+</h2>
 
-## About
-I'm an emerging software engineer and a computer science major in Lagos Nigeria.
+---
 
-When I'm not coding I'm telling stories of my journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or writing educative and fun stories on systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
+I am an emerging software engineer and a computer science major in Lagos Nigeria.
+When I'm not coding I journal my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or write educative and fun stories on systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
+
+---
 
 ### I'm actively growing to specialize in this niche.
 - Distributed systems. 
 - Cloud native engineering.
 - Real-time systems. 
 
+---
 
-## Tech Stack
+<h3>Tech Stack</h3> 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='300' width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='200' width="100%"/>
 <p />
 
   
