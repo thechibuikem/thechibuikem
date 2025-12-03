@@ -34,6 +34,10 @@ While I'm actively learning to specialize in this niche.
 
   <!-- TailwindCSS -->
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>
+ <!-- html -->
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+ <!-- css -->
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
   <!-- NodeJS -->
   <img align="left" alt="node" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
