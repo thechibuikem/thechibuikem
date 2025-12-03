@@ -1,3 +1,4 @@
+<img src="https://www.canva.com/design/DAG6XbbMf9E/PB4QNpS5rrN9e6WIv3Pwhg/view?utm_content=DAG6XbbMf9E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7d8cd44cab"/>
 ## Welcome to David Chukwuemeka's github 👋🏾
 ---
 
@@ -6,11 +7,11 @@ I'm an emerging software engineer and a computer science major in Lagos Nigeria.
 
 When I'm not coding I'm telling stories of my journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or writing educative and fun stories on systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
 
-### I'm particularly in love with:
+### I'm actively growing to specialize in this niche.
 - Distributed systems. 
 - Cloud native engineering.
 - Real-time systems. 
-While I'm actively learning to specialize in this niche.
+
 
 ## Tech Stack
 <p align="center">
