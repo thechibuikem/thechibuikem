@@ -3,8 +3,8 @@
 </h2>
 
 
-I am an emerging software engineer and a computer science major in Lagos Nigeria.
-When I'm not coding I journal my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or write educative and fun stories about systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
+I am a software engineer and a computer science major in Lagos, Nigeria.
+If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or write educative and fun stories about systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
 
 ---
 
