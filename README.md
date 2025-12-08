@@ -24,39 +24,39 @@ When I'm not coding I journal my tech journey on [LinkedIn](https://www.linkedin
 <!-- Frontend Stack -->
 <p align="">
   <!-- React -->
-  <img align="left" alt="react" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="react" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <!-- Redux -->
-  <img align="left" alt="redux" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" alt="redux" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
   <!-- JavaScript -->
-  <img align="left" alt="javascript" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="left" alt="javascript" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
   <!-- TypeScript -->
-  <img align="left" alt="typescript" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="typescript" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
   <!-- TailwindCSS -->
-<img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="TailwindCSS" />
+<img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="TailwindCSS" />
  <!-- html -->
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <!-- css -->
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
   <!-- NodeJS -->
-  <img align="left" alt="node" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="node" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <!-- Express -->
-  <img align="left" alt="express" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
   <!-- Python -->
-  <img align="left" alt="python" width="40px" style="padding-right:10px;padding-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   <!-- MongoDB -->
-  <img align="left" alt="mongo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="left" alt="mongo" width="40px" style="padding-right:10px; margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
   <!-- Vite -->
-  <img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
+  <img align="left" alt="vite" width="40px" style="padding-right:10px;margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
 
   <!-- Git -->
-  <img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
