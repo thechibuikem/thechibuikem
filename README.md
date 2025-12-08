@@ -19,8 +19,9 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='200' width="100%"/>
 <p />
----
   
+---
+
 <!-- Frontend Stack -->
 <p align="">
   <!-- React -->
