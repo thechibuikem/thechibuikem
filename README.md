@@ -1,7 +1,4 @@
-<h2>
-  David Chukwuemeka says, hi 👋🏾
-</h2>
-
+<h3 align="center">   David Chukwuemeka says, hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </h3
 
 I am a software engineer and a computer science major in Lagos, Nigeria.
 If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or writing educative and fun stories about systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
