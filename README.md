@@ -49,6 +49,8 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
   <!-- Python -->
   <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+<img align="left" alt="fastapi" width="40px"  style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+
   <!-- MongoDB -->
   <img align="left" alt="mongo" width="40px" style="padding-right:10px; margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
@@ -58,3 +60,5 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
   <!-- Git -->
   <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
+
+
