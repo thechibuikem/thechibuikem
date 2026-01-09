@@ -34,7 +34,7 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
   <img align="left" alt="typescript" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
   <!-- TailwindCSS -->
-<img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="TailwindCSS" />
+<img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
  <!-- html -->
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <!-- css -->
@@ -44,7 +44,7 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
   <img align="left" alt="node" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <!-- Express -->
-  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://skillicons.dev/icons?i=express" />
 
   <!-- Python -->
   <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
