@@ -5,7 +5,7 @@ If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https:/
 
 ---
 
-### I'm actively growing to specialize in distributed systems engineering.
+### I'm actively growing to specialize in distributed systems engineering 👾
 
 ---
 
