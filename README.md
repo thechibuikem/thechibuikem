@@ -7,6 +7,9 @@
 I am a software engineer and a computer science major in Lagos, Nigeria.
 </h4>
 
+---
+
+
 <h4>You can see what I'm up to here:</h4>
 
 <ul>
