@@ -3,12 +3,9 @@
 I am a software engineer and a computer science major in Lagos, Nigeria.
 If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or telling educating stories about software systems on [medium](https://medium.com/@chukwuemekadavid).
 
----
-
-I'm actively growing to specialize in distributed systems engineering 🌟
-
----
-
+<h5>
+I'm actively growing to specialize in distributed systems engineering 🌟  
+</h5>
 <h3>Tech Stack</h3> 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='200' width="100%"/>
