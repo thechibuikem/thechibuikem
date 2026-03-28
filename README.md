@@ -24,6 +24,10 @@ I am a software engineer and a computer science major in Lagos, Nigeria.
   </li>
 </ul>
 
+
+---
+
+
 <h4>
 I'm actively growing to specialize in distributed systems engineering 🌟  
 </h4>
