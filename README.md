@@ -1,73 +1,68 @@
-<h2>   David Chukwuemeka says, hi  <img src = "https://www.emoji.family/api/emojis/1f44b-1f3ff/noto/svg" width = 25px> </h2>
+<h2>
+  David Chukwuemeka says, hi  
+  <img src="https://www.emoji.family/api/emojis/1f44b-1f3ff/noto/svg" width="25px" />
+</h2>
 
 <h4>
 I am a software engineer and a computer science major in Lagos, Nigeria.
 </h4>
-<h4>
-  You can see what I'm upto here : 
-</h4>
+
+<h4>You can see what I'm up to here:</h4>
+
 <ul>
   <li>
-    [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) 
+    <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
   </li>
-    <li>
-     [Medium](https://medium.com/@chukwuemekadavid)
+  <li>
+    <a href="https://medium.com/@chukwuemekadavid" target="_blank">Medium</a>
   </li>
-    <li>
-      [YouTube](https://www.youtube.com/@learningbytess)
+  <li>
+    <a href="https://www.youtube.com/@learningbytess" target="_blank">YouTube</a>
   </li>
 </ul>
+
 <h4>
 I'm actively growing to specialize in distributed systems engineering 🌟  
 </h4>
+
 ---
-<h3>Tech Stack</h3> 
+
+<h3>Tech Stack</h3>
+
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='200' width="100%"/>
-<p />
-  
----
-
-<!-- Frontend Stack -->
-<p align="">
-  <!-- React -->
-  <img align="left" alt="react" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- Redux -->
-  <img align="left" alt="redux" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-
-  <!-- JavaScript -->
-  <img align="left" alt="javascript" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-  <!-- TypeScript -->
-  <img align="left" alt="typescript" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-  <!-- TailwindCSS -->
-<img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
- <!-- html -->
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
- <!-- css -->
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-  <!-- NodeJS -->
-  <img align="left" alt="node" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <!-- Express -->
-  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://skillicons.dev/icons?i=express" />
-
-  <!-- Python -->
-  <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="left" alt="fastapi" width="40px"  style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-
-  <!-- MongoDB -->
-  <img align="left" alt="mongo" width="40px" style="padding-right:10px; margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-
-  <!-- Vite -->
-  <img align="left" alt="vite" width="40px" style="padding-right:10px;margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
-
-  <!-- Git -->
-  <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height="200" width="100%" />
 </p>
 
+---
 
+<p>
+  <img align="left" alt="react" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img align="left" alt="redux" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+  <img align="left" alt="javascript" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+  <img align="left" alt="typescript" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+  <img align="left" alt="tailwindcss" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://skillicons.dev/icons?i=tailwind" />
+
+  <img align="left" alt="HTML" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+  <img align="left" alt="CSS" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+  <img align="left" alt="node" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://skillicons.dev/icons?i=express" />
+
+  <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  <img align="left" alt="fastapi" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+
+  <img align="left" alt="mongo" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+  <img align="left" alt="vite" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
+
+  <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
+<br clear="both" />
