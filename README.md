@@ -1,11 +1,11 @@
 <h2>   David Chukwuemeka says, hi  <img src = "https://www.emoji.family/api/emojis/1f44b-1f3ff/noto/svg" width = 25px> </h2>
 
 I am a software engineer and a computer science major in Lagos, Nigeria.
-If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or writing educative and fun stories about systems that make our world a better place on [medium](https://medium.com/@chukwuemekadavid).
+If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or telling educating stories about software systems on [medium](https://medium.com/@chukwuemekadavid).
 
 ---
 
-### I'm actively growing to specialize in distributed systems engineering 👾
+I'm actively growing to specialize in distributed systems engineering 🌟
 
 ---
 
