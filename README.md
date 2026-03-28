@@ -1,11 +1,26 @@
 <h2>   David Chukwuemeka says, hi  <img src = "https://www.emoji.family/api/emojis/1f44b-1f3ff/noto/svg" width = 25px> </h2>
 
+<h4>
 I am a software engineer and a computer science major in Lagos, Nigeria.
-If I'm not coding I'm probably journalling my tech journey on [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) or telling educating stories about software systems on [medium](https://medium.com/@chukwuemekadavid).
-
-<h5>
+</h4>
+<h4>
+  You can see what I'm upto here : 
+</h4>
+<ul>
+  <li>
+    [LinkedIn](https://www.linkedin.com/in/david-chukwuemeka-870724289/) 
+  </li>
+    <li>
+     [Medium](https://medium.com/@chukwuemekadavid)
+  </li>
+    <li>
+      [YouTube](https://www.youtube.com/@learningbytess)
+  </li>
+</ul>
+<h4>
 I'm actively growing to specialize in distributed systems engineering 🌟  
-</h5>
+</h4>
+---
 <h3>Tech Stack</h3> 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height='200' width="100%"/>
