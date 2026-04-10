@@ -2,18 +2,18 @@
   David Chukwuemeka says, hi  
 </h2>
 
-<h3>
+<h4>
 I am a backend systems architect and a computer science major in Lagos, Nigeria.
-</h3>
-
+</h4>
+---
 
 
 <h3>
   You can see what I'm up to here:
   <h4>
-    <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
-    <a href="https://medium.com/@chukwuemekadavid" target="_blank">Medium</a>
-    <a href="https://www.youtube.com/@learningbytess" target="_blank">YouTube</a>
+    * <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
+    <a href="https://medium.com/@chukwuemekadavid" target="_blank"> Medium</a>
+    <a href="https://www.youtube.com/@learningbytess" target="_blank"> YouTube</a>
   </h4>
   </h3>
 
@@ -21,7 +21,7 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
 
 
 <h3>Tech Stack</h3>
-***
+---
 <p>
   <!-- Core Backend -->
   <img alt="java" width="40px" src="./icons/Java-Dark.svg" />
