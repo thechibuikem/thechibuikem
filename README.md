@@ -8,7 +8,6 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
 
 ___
 
-
 <h3>
   You can see what I'm up to here:
   <h4>
@@ -17,9 +16,7 @@ ___
     <a href="https://www.youtube.com/@learningbytess" target="_blank"> YouTube</a>
   </h4>
   </h3>
-
-
-
+  
 ___
 <h3>Tech Stack</h3>
 
