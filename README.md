@@ -18,9 +18,9 @@ ___
   </h3>
   
 ___
+
 <h3>Tech Stack</h3>
 
-___
 
 <p>
   <!-- Core Backend -->
