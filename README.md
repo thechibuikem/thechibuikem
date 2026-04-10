@@ -1,5 +1,5 @@
 <h2>
-  David says, hi  
+  David Chukwuemeka says, hi  
 </h2>
 
 ```
@@ -19,7 +19,7 @@ ___
   
 ___
 
-<h3>Tech Stack</h3>
+```Tech Stack```
 
 
 <p>
