@@ -1,32 +1,25 @@
 <h2>
   David Chukwuemeka says, hi  
-  <img src="https://www.emoji.family/api/emojis/1f44b-1f3ff/noto/svg" width="25px" />
 </h2>
 
-<h3>
+<h2>
 I am a backend systems architect and a computer science major in Lagos, Nigeria.
+</h2>
+
+
+
+<h3>
+  You can see what I'm up to here:
+    <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
+    <a href="https://medium.com/@chukwuemekadavid" target="_blank">Medium</a>
+    <a href="https://www.youtube.com/@learningbytess" target="_blank">YouTube</a>
 </h3>
 
 
 
-<h3>You can see what I'm up to here:</h3>
-
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
-  </li>
-  <li>
-    <a href="https://medium.com/@chukwuemekadavid" target="_blank">Medium</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/@learningbytess" target="_blank">YouTube</a>
-  </li>
-</ul>
-
-
 
 <h3>Tech Stack</h3>
-
+***
 <p>
   <!-- Core Backend -->
   <img alt="java" width="40px" src="./icons/Java-Dark.svg" />
@@ -58,9 +51,3 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
   <img alt="react" width="40px" src="./icons/React-Dark.svg" />
 </p>
 
-***
-
-</p>
-
-
-<br clear="both" />
