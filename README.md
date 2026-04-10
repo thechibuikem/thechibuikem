@@ -3,7 +3,7 @@
 </h2>
 
 ```
-I am a backend systems architect and a computer science major in Lagos, Nigeria.
+I am a backend & systems focused software engineer, and computer science major in Lagos, Nigeria.
 ```
 
 ___
