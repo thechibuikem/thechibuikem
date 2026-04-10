@@ -22,10 +22,6 @@ ___
 
 ```Tech Stack```
 
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdzNnJ1OXlodWE1ZTg1cnNncjVoZHk4b3djb3pvbjBkZnZuMjJ3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OS9R41QuUqjnwMcqYI/giphy.gif" />
-</p>
-
 
 <p>
   <!-- Core Backend -->
