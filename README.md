@@ -7,7 +7,7 @@
 I am a backend systems architect and a computer science major in Lagos, Nigeria.
 </h3>
 
---
+***
 
 
 <h3>You can see what I'm up to here:</h3>
@@ -25,7 +25,7 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
 </ul>
 
 
---
+***
 
 <h3>Tech Stack</h3>
 
@@ -33,7 +33,7 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGgxMHZkOWZjY3lsNzlyejc3aWh1aWJmZTIzc3NjZWw4amNoczdxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" height="200" width="100%" />
 </p>
 
----
+***
 
 <p>
   <img align="left" alt="react" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/React-Dark.svg" />
