@@ -22,7 +22,9 @@ ___
 
 ___
 <h3>Tech Stack</h3>
+
 ___
+
 <p>
   <!-- Core Backend -->
   <img alt="java" width="40px" src="./icons/Java-Dark.svg" />
