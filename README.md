@@ -62,11 +62,6 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
 
 ***
 
-
-
-  <img align="left" alt="vite" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Vite-Dark.svg"/>
-
-  <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Git.svg" />
 </p>
 
 
