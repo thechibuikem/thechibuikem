@@ -31,33 +31,33 @@ I am a backend systems architect and a computer science major in Lagos, Nigeria.
 
 <p>
   <!-- Core Backend -->
-  <img align="left" alt="java" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Java-Dark.svg" />
-  <img align="left" alt="python" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Python-Dark.svg" />
-  <img align="left" alt="golang" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/GoLang.svg" />
+  <img alt="java" width="40px" src="./icons/Java-Dark.svg" />
+  <img alt="python" width="40px" src="./icons/Python-Dark.svg" />
+  <img alt="golang" width="40px" src="./icons/GoLang.svg" />
 
   <!-- Backend Frameworks -->
-  <img align="left" alt="nodejs" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/NodeJS-Dark.svg" />
-  <img align="left" alt="express" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/ExpressJS-Dark.svg" />
-  <img align="left" alt="fastapi" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/FastAPI.svg" />
+  <img alt="nodejs" width="40px" src="./icons/NodeJS-Dark.svg" />
+  <img alt="express" width="40px" src="./icons/ExpressJS-Dark.svg" />
+  <img alt="fastapi" width="40px" src="./icons/FastAPI.svg" />
 
   <!-- Systems / Infra -->
-  <img align="left" alt="linux" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Linux-Dark.svg" />
-  <img align="left" alt="git" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Git.svg" />
-  <img align="left" alt="redis" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/Redis-Dark.svg" />
+  <img alt="linux" width="40px" src="./icons/Linux-Dark.svg" />
+  <img alt="git" width="40px" src="./icons/Git.svg" />
+  <img alt="redis" width="40px" src="./icons/Redis-Dark.svg" />
 
   <!-- Data Layer -->
-  <img align="left" alt="mongodb" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/MongoDB.svg" />
-  <img align="left" alt="postgresql" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/PostgreSQL-Dark.svg" />
+  <img alt="mongodb" width="40px" src="./icons/MongoDB.svg" />
+  <img alt="postgresql" width="40px" src="./icons/PostgreSQL-Dark.svg" />
 
-  <!-- API / Web Understanding -->
-  <img align="left" alt="javascript" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/JavaScript.svg" />
-  <img align="left" alt="typescript" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/TypeScript.svg" />
-  <img align="left" alt="html" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/HTML.svg" />
-  <img align="left" alt="css" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/CSS.svg" />
-  <img align="left" alt="tailwind" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/TailwindCSS-Dark.svg" />
+  <!-- API / Web -->
+  <img alt="javascript" width="40px" src="./icons/JavaScript.svg" />
+  <img alt="typescript" width="40px" src="./icons/TypeScript.svg" />
+  <img alt="html" width="40px" src="./icons/HTML.svg" />
+  <img alt="css" width="40px" src="./icons/CSS.svg" />
+  <img alt="tailwind" width="40px" src="./icons/TailwindCSS-Dark.svg" />
 
-  <!-- Frontend (supporting awareness) -->
-  <img align="left" alt="react" width="40px" style="padding-right:10px;margin-bottom:10px;" src="./icons/React-Dark.svg" />
+  <!-- Frontend awareness -->
+  <img alt="react" width="40px" src="./icons/React-Dark.svg" />
 </p>
 
 ***
