@@ -27,7 +27,7 @@ ___
   <!-- Core Backend -->
   <img alt="java" width="40px" src="./icons/Java-Dark.svg" />
   <img alt="python" width="40px" src="./icons/Python-Dark.svg" />
-  <img alt="golang" width="40px" src="./icons/GoLang.svg" />
+  <!-- <img alt="golang" width="40px" src="./icons/GoLang.svg" /> -->
 
   <!-- Backend Frameworks -->
   <img alt="nodejs" width="40px" src="./icons/NodeJS-Dark.svg" />
