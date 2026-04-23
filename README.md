@@ -1,5 +1,5 @@
 <h2>
-  David says:  
+  David says :  
 </h2>
 
 ```
