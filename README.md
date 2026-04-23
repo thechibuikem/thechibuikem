@@ -1,9 +1,9 @@
 <h2>
-  David says: hi  
+  David says:  
 </h2>
 
 ```
-I am a backend & systems focused software engineer, and computer science major in Lagos, Nigeria.
+hi, I am a backend & systems focused software engineer, and computer science major in Lagos, Nigeria.
 ```
 
 ___
