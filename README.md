@@ -12,7 +12,7 @@ ___
   You can see what I'm up to here:
   <h4>
     <a href="https://www.linkedin.com/in/david-chukwuemeka-870724289/" target="_blank">LinkedIn</a>
-    <a href="https://drive.google.com/file/d/14EDmpqoQMViI75ped43Xs8aOq6ucdE5z/view?usp=sharing">Resume</a>
+    <a href="https://drive.google.com/file/d/1nAcTaIX7dLo1nWnnxuEQNQB9Yk21Rge8/view?usp=sharing">Resume</a>
     <a href="https://medium.com/@chukwuemekadavid." target="_blank"> Medium</a>
     <!-- <a href="https://www.youtube.com/@learningbytess" target="_blank"> YouTube</a> -->
   </h4>
